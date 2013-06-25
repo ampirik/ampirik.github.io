@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Entrepreneurship | Ampirik Blog]]></title>
+  <link href="http://ampirik.github.io/blog/categories/entrepreneurship/atom.xml" rel="self"/>
+  <link href="http://ampirik.github.io/"/>
+  <updated>2013-06-25T19:24:18+02:00</updated>
+  <id>http://ampirik.github.io/</id>
+  <author>
+    <name><![CDATA[Ampirik]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The beginning of Ampirik]]></title>
+    <link href="http://ampirik.github.io/blog/2013/06/24/the-beginning-of-ampirik/"/>
+    <updated>2013-06-24T22:45:00+02:00</updated>
+    <id>http://ampirik.github.io/blog/2013/06/24/the-beginning-of-ampirik</id>
+    <content type="html"><![CDATA[<p>Hi there! This is a test</p>
+]]></content>
+  </entry>
+  
+</feed>
