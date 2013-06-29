@@ -4,7 +4,7 @@
   <title><![CDATA[Ampirik Blog]]></title>
   <link href="http://ampirik.github.io/atom.xml" rel="self"/>
   <link href="http://ampirik.github.io/"/>
-  <updated>2013-06-29T08:58:07+02:00</updated>
+  <updated>2013-06-29T09:02:00+02:00</updated>
   <id>http://ampirik.github.io/</id>
   <author>
     <name><![CDATA[Ampirik]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://ampirik.github.io/blog/2013/06/29/test/"/>
-    <updated>2013-06-29T08:34:00+02:00</updated>
-    <id>http://ampirik.github.io/blog/2013/06/29/test</id>
-    <content type="html"><![CDATA[<p>sisome!</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[First thoughts]]></title>
